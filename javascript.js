@@ -161,7 +161,7 @@ $(function() {
     }
     
     score.append('You got ' + numCorrect + ' questions out of ' +
-                 questions.length + ' right!!!');
+                 questions.length + ' right! You donated a total of ' + numCorrect * .5 + '!');
     return score;
   }
 })();
