@@ -19,7 +19,10 @@
       </ul>
     </div>
   </div>
-  <div id='Main'><!--Container for all the content -->
-    
+  <div id='Main'><!--Container for all the quiz content -->
+  </div>
+  <div id='AdLeft'><!--Banners ads for the left-->
+  </div>
+  <div id='AdRight'><!--Banner ads for the right-->
   </div>
 </html
