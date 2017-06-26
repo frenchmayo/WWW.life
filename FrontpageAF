@@ -20,9 +20,13 @@
     </div>
   </div>
   <div id='Main'><!--Container for all the quiz content -->
+    <div id='GameContainer'><!--Will contain quiz and statboxes-->
+    </div>
+    <div id='News'><!--Will contain thirst project, ags, and water crisis news-->
+    </div>
   </div>
-  <div id='AdLeft'><!--Banners ads for the left-->
+  <div id='Ad'><!--Banners ads for the left-->
   </div>
-  <div id='AdRight'><!--Banner ads for the right-->
+  <div id='Ad'><!--Banner ads for the right-->
   </div>
 </html
