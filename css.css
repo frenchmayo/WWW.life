@@ -20,7 +20,7 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none;
 }
-.active {
+ul:active {
 	bacground-color:rgb(0, 129, 71);
 	color: black;
 }
