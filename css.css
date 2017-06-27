@@ -1,0 +1,47 @@
+html {
+	background-color: rgb(46, 98, 187);
+}
+#navbar {
+	list-style-type: none;
+}
+ul {
+	background-color: rgb(52, 196, 210);/*temp color */
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.active {
+	bacground-color:rgb(0, 129, 71);
+	color: black;
+}
+#mlimg {
+	width: 10%;
+	height: auto;
+}
+#headimg {
+	max-width: 40%, 0% 0%;
+	max-height: auto;
+}
+#top {
+	width: 100%;
+	height:auto;
+	background-image: url(noter.png);
+	background-position: 55% 130%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+/* #mrimg {
+	float: center;
+	width: 10%;
+	height: auto;
+} */
